@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StockTrack</string>
+    <string name="title_day">Day</string>
+    <string name="title_week">Week</string>
+    <string name="title_month">Month</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
